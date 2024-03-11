@@ -28,6 +28,7 @@
 
 ## Resources <a name="resources"></a>
 - [React Set-Up Tutorial](https://www.youtube.com/watch?v=Kum8fPPrt-E&t=319s)
+- [React Explained (Overview](https://www.youtube.com/watch?v=s2skans2dP4)
 
 ## Git Branching <a name="git-branching"></a>
 
