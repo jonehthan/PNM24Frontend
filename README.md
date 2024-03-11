@@ -27,7 +27,7 @@
 - [React](https://react.dev/)
 
 ## Resources <a name="resources"></a>
-- [Set-Up Tutorial](https://www.youtube.com/watch?v=Kum8fPPrt-E&t=319s)
+- [React Set-Up Tutorial](https://www.youtube.com/watch?v=Kum8fPPrt-E&t=319s)
 
 ## Git Branching <a name="git-branching"></a>
 
