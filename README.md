@@ -1,4 +1,10 @@
-# FRONTEND TEAM
+# FRONTEND COMMITTEE
+# Table of Contents
+1. [Team Members] (#Team Members)
+2.
+3.
+4.
+5.
 
 ## Team Members
 
