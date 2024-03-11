@@ -16,9 +16,9 @@
 
 | Task :                                         | Due Date:        | Status:     |
 | ---------------------------------------------- | ---------------- | ----------- |
-| Design website mockups on Figma                | Wednesday (3/13) | In Progress |
 | Create UML Class Diagram                       | Wednesday (3/13) | In Progress |
 | Create UML Sequence Diagram for interactions   | Wednesday (3/13) | In Progress |
+| Design website mockups on Figma                | Wednesday (3/13) | In Progress |
 | Distribute pages                               | Wednesday (3/13) | In Progress |
 | Create ReactJS Application                     | Friday    (3/15) | In Progress |
 
