@@ -33,6 +33,6 @@
 
 | Name :                                         | Status:     |
 | ---------------------------------------------- | ----------- |
-| Jonathan                                       |             |
+| Jonathan                                       | DONE        |
 | Joshua                                         |             |
 | Natalie                                        |             |
