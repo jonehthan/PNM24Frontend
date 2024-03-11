@@ -1,18 +1,18 @@
 # FRONTEND COMMITTEE
 # Table of Contents
-1. [Team Members] (#Team Members)
-2.
-3.
-4.
-5.
+1. [Team Members](#team-members)
+2. [Current Tasks](#current-tasks)
+3. [Libraries](#libraries)
+4. [Resources](#resources)
+5. [Git Branching](#git-branching)
 
-## Team Members
+## Team Members <a name="team-members"></a>
 
 - Jonathan Wu
 - Joshua Hsieh
 - Natalie Tran
 
-## Current Tasks
+## Current Tasks <a name="current-tasks"></a>
 
 | Task :                                         | Due Date:        | Status:     |
 | ---------------------------------------------- | ---------------- | ----------- |
@@ -22,15 +22,15 @@
 | Distribute pages                               | Wednesday (3/13) | In Progress |
 | Create ReactJS Application                     | Friday    (3/15) | In Progress |
 
-## Libraries
+## Libraries <a name="libraries"></a>
 
-- ReactJS (open-source JavaScript library for building user interfaces)
+- [React](https://react.dev/)
 
-## Resources
+## Resources <a name="resources"></a>
 - 
 - 
 
-## Git Branching
+## Git Branching <a name="git-branching"></a>
 
 | Name :                                         | Status:     |
 | ---------------------------------------------- | ----------- |
