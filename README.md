@@ -20,6 +20,6 @@
 
 - ReactJS (open-source JavaScript library for building user interfaces)
 
-## Links
+## Resources
 - 
 - 
