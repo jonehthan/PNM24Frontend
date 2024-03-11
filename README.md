@@ -23,3 +23,11 @@
 ## Resources
 - 
 - 
+
+## Git Branching
+
+| Name :                                         | Status:     |
+| ---------------------------------------------- | ----------- |
+| Jonathan                                       |             |
+| Joshua                                         |             |
+| Natalie                                        |             |
